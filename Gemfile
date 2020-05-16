@@ -5,4 +5,4 @@ source "http://rubygems.org"
 gem "cocoapods-core", :git => "git://github.com/CocoaPods/Core.git", :branch => 'master'
 gem "cocoapods",      :git => "git://github.com/CocoaPods/CocoaPods.git", :branch => 'master'
 
-gem 'rake'
+gem 'rake', '>= 12.3.3'
