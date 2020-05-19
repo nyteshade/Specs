@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/CocoaPods/CocoaPods.git
-  revision: 0a46d4948ae6a3fd9fee8c022741e2c36baca86d
+  revision: bb0820e2f37dffd05c0112c4ee765f12061e7742
   branch: master
   specs:
     cocoapods (1.9.1)
@@ -76,7 +76,7 @@ GEM
     i18n (0.9.5)
       concurrent-ruby (~> 1.0)
     json (2.3.0)
-    minitest (5.14.0)
+    minitest (5.14.1)
     molinillo (0.6.6)
     nanaimo (0.2.6)
     nap (1.1.0)
